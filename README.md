@@ -18,3 +18,6 @@ GDP Test Interview Backend System
 2. Choose the menu, and it will direct you to the listing page of the management type you have chosen.
 3. You are allow to create, edit, delete on Advertisement, Rules and Privilege.
 4. You are not allow to do any action on Customer, except you can assign them privileges (in Privilege Management).
+
+## Note
+This project is created with minimum error-handling method. However, it is tested according to the case-study and did return expected result.
