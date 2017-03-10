@@ -8,10 +8,10 @@ GDP Test Interview Backend System
 ## How to setup
 1. Clone the project
 2. Create a new database name `seek` with mysql db server
-3. Import `init.sql` file
+3. Import `init.sql` file. (Make sure your mysql db server is listening to the port 3306)
 4. Run `npm install` or `npm i`
 5. Run `npm start` to start the server
-6. Visit `localhost:3001`
+6. Visit `localhost:3000`
 
 ## How to use
 1. Go to `localhost:3001` and you will see a menu page.
