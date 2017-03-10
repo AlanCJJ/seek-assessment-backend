@@ -1,0 +1,131 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.btn-back-outline {
+  background-color: transparent;
+  color: #1751c3;
+  transition: all .5s;
+  border:1px solid #1751c3;
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  touch-action: manipulation;
+  cursor: pointer;
+  user-select: none;
+  background-image: none;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+.btn-back-outline:hover{
+  text-decoration: none;
+}
+
+.btn-create-outline {
+  background-color: transparent;
+  color: #eb9316;
+  transition: all .5s;
+  border:1px solid #eb9316;
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  touch-action: manipulation;
+  cursor: pointer;
+  user-select: none;
+  background-image: none;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+.btn-create-outline:hover{
+  text-decoration: none;
+}
+
+.btn-edit-outline {
+  background-color: transparent;
+  color: #5cb85c;
+  transition: all .5s;
+  border:1px solid #5cb85c;
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  touch-action: manipulation;
+  cursor: pointer;
+  user-select: none;
+  background-image: none;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+.btn-edit-outline:hover{
+  text-decoration: none;
+}
+
+.btn-delete-outline {
+  background-color: transparent;
+  color: #c12e2a;
+  transition: all .5s;
+  border:1px solid #c12e2a;
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  touch-action: manipulation;
+  cursor: pointer;
+  user-select: none;
+  background-image: none;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+.btn-delete-outline:hover{
+  text-decoration: none;
+}
+
+.menu-button {
+    border: 2px solid #000000;
+    border-radius: 20px;
+    /*padding: 15px 32px;*/
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 20px 30px;
+    cursor: pointer;
+    height: 200px;
+    width: 100%;
+    background-color: transparent;
+    color: #000000;
+}
+
+.menu-button:hover {
+    box-shadow: 0px 0px 6px 5px #e60a7c;
